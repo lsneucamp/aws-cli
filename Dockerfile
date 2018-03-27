@@ -10,6 +10,7 @@ RUN apk -v --update add \
         py-pip \
         groff \
         less \
+	openssh \
         mailcap \
         jq \
         && \
